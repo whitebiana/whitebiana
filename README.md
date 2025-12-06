@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😆 I'm Yiming Chen, 陈一铭 in Chinese.
+- 🏫 I'm a Master's student in Artificial Intelligence at Jinan University in Guangzhou.
+- 📫 How to reach me: whitebiana@gmail.com
